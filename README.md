@@ -27,7 +27,7 @@
 
 ---
 
-<details open>
+<Details open>
 <summary><h2>🚀 Main Highlight — Django Course Management System</h2></summary>
 
 ### ✔ Key Features
