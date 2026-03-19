@@ -27,7 +27,7 @@
 
 ---
 
-<Details open>
+<Details Open>
 <summary><h2>🚀 Main Highlight — Django Course Management System</h2></summary>
 
 ### ✔ Key Features
@@ -97,7 +97,7 @@
 
 ## 🏁 Final Note
 
-This repository is not a random practice folder —  
+This Repository Is Not a Random Practice Folder —  
 it’s a **professional dev journey**, structured properly, showing real progress and real projects.
 
 ---
